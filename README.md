@@ -36,6 +36,6 @@ I would like to express my gratitude to Dinesh Pandiyan for their creativity and
 
 ## Contact
 
-If you have any questions or feedback regarding this project, feel free to reach out to me at [your.email@example.com].
+If you have any questions or feedback regarding this project, feel free to reach out to me at [burakburcak72@gmail.com].
 
 Thank you for visiting my clone of Dinesh Pandiyan's page!
