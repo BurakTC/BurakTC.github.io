@@ -42,6 +42,9 @@ main {
 	padding: 0 30px;
 	text-align: center;
 }
+main,a{
+	animation: colors 2s ease infinite;
+}
 
 main > .intro {
 	font-family: 'Reem Kufi', sans-serif;
@@ -72,4 +75,12 @@ main > .tagline {
 	margin-left: 0.675rem;;
 	width: 2.65rem;
 	height: 2.65rem;
+}
+
+@keyframes colors {
+	0% { color: #532cff}
+	20%{ color: rgb(0, 140, 255);}
+    50% {color: #00fff2; }
+	70%{ color: rgb(0, 255, 106);}
+    100% {color: rgb(255, 0, 255); }
 }
